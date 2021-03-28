@@ -30,7 +30,7 @@ Our software would allow teachers to collaborate in giving out tests and assignm
 # What's next for Edu-Plan?
 * Make it into a website so that it's more convenient and can be used across any platform.
 * Update the UI to make it more appealing to the end user.
-* * Add push notifications when a new assignment is added or when there is too much workload in order to notify the educators in a faster and in a more efficient manner.
+  * Add push notifications when a new assignment is added or when there is too much workload in order to notify the educators in a faster and in a more efficient manner.
 * Add analytics like total average work per day to be able to better gauge student workload.
 * Suggestions on when to schedule assignments.
 # Built With
